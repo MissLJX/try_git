@@ -1,1 +1,1 @@
-this is a content for cat.
+this is a content for cat.this is a merged file;
